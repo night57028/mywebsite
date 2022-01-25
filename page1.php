@@ -2,6 +2,7 @@
         <head>
         </head>
         <body bgcolor="lightblue">
-                page1
+                ประวัติส่วนตัว
+                <b>ชื่อ : </b> <i> น.ส.จิรภิญญา อินทร์แก้ว </i>
         </body>
 </html>
