@@ -41,6 +41,12 @@
         <td>IU</td>
         <td><img src="https://obs.line-scdn.net/0hsd3KKrn1LEsOMgSTeJxTHDRkLyQ9Xj9IagR9SFJccn93UTwbYQNrfiI0cH4mA2sVYAZlLC0xN3pwVThNMQBr/w644" width="100px"></td>
         <td><a href="https://twitter.com/_iuofficial">twitter</a></td>
+        <tr>
+        <td>6</td>
+        <td>bea joo hyun</td>
+        <td>irene</td>
+        <td><img src="https://i2.wp.com/www.korseries.com/wp-content/uploads/2020/10/irene.jpeg?fit=1441%2C961&ssl=1" width="100px"></td>
+        <td><a href="https://twitter.com/rvsmtown">twitter</a></td>
       </tr>
     </table>
   </body> 
