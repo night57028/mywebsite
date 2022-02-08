@@ -5,9 +5,17 @@
   <body>
     <table border="1">
       <tr>
-        <td>คอลัมน์ที่ 1</td>
-        <td>คอลัมน์ที่ 2</td>
+        <th>ลำดับ</th>
+        <th>ชื่อ - นามสกุล</th>
+        <th>ชื่อเล่น</th>
+        <th>รูป</th>
       </tr>
+      <tr>
+        <td>1</td>
+        <td>จิรภิญญา อินทร์แก้ว</td>
+        <td>ไนท์</td>
+        <td><ing ></hd>
+      </tr>  
     </table>
   </body> 
 </html>
