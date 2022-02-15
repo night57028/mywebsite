@@ -1,17 +1,23 @@
+
 <html>
 	<head>
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
 		<style>
-			#text1{
-				color:green;
+			#box1{
+				width: 800px;
+				height: 350px;
 			}
-			#text2{
-				color:yellow;
+			.box{
+				background-color: blue;
+			}
+                        body{
+                                background-color: pink;
 			}
 		</style>
 	</head>
 	<body>
-		<h1 id="text1"> ข้อความนี้สีเขียว H1 </h1>
-		<h1 id="text2"> ข้อความนี้สีเหลือง H1 </h1>
+		<div id="box1" class="box">
+			<h1> น.ส.จิรภิญญา อินทร์แก้ว เลขที่ 17 ม.4/13</h1>
+		</div>
 	</body>
 </html>
