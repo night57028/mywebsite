@@ -8,10 +8,13 @@
 				height: 350px;
 			}
 			.box{
-				background-color: blue;
+				background-color: lightblue;
 			}
                         body{
                                 background-color: pink;
+			}
+                        h1{
+                                background-color: yellow;
 			}
 		</style>
 	</head>
