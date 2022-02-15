@@ -14,7 +14,7 @@
                                 background-color: pink;
 			}
                         h1{
-                                background-color: yellow;
+                                color: yellow;
 			}
 		</style>
 	</head>
