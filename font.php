@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url("was@namchuemTEST.woff")
+      src: url(was@namchuemTEST.woff)
     }
     #font1{
 	font-family: myFont1;    
