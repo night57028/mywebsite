@@ -10,15 +10,18 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(was@namchuemTEST.woff)
+      src: url("was@namchuemTEST.woff")
     }
     #font1{
 	font-family: myFont1;    
+    } 
+    #font2{
+	font-family: myFont2;    
     }
   </style>
 </head>
 <body>
   <h1 id="font1">น.ส.จิรภิญญา อินทร์แก้ว เลขที่ 17 เลขประจำตัว 57028</h1>
-  <h1 id=font2>น.ส.จิรภิญญา อินทร์แก้ว เลขที่ 17 เลขประจำตัว 57028</h1>
+  <h1 id="font2">น.ส.จิรภิญญา อินทร์แก้ว เลขที่ 17 เลขประจำตัว 57028</h1>
 </body>
 </html>
