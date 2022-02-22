@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url()
+      src: url(https://github.com/night57028/mywebsite/blob/main/fonttintin.woff)
     }
     #font1{
 	font-family: myFont1;    
