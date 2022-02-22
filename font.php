@@ -6,11 +6,11 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(DM Shining Star Regular.woff)
+      src: url("DM Shining Star Regular.woff")
     }
     @font-face{
       font-family: myFont2;
-      src: url(fonttintin.woff)
+      src: url("fonttintin.woff")
     }
     #font1{
 	font-family: myFont1;    
