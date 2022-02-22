@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url()
+      src: url(https://github.com/night57028/mywebsite/blob/main/DM%20Shining%20Star%20Regular.woff)
     }
     @font-face{
       font-family: myFont2;
